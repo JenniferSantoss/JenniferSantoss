@@ -12,8 +12,11 @@
 
 <br />
 
-|<a href="https://github.com/JenniferSantoss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JenniferSantoss&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/JenniferSantoss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferSantoss&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div>
+  <a href="https://github.com/JenniferSantoss">
+  <img heigth="160em" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferSantoss&layout=compact&langs_count-16"/>
+</div>
+
 
 <br />
 
