@@ -2,7 +2,9 @@
 
 **About me**
 
-📌 AEM Content Author  
+📌 I'm Adobe Certified Expert - AEM Sites Business Practitioner
+
+📌 AEM Content Author 
 
 📌 AEM developer enthusiastic 
 
