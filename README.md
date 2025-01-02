@@ -2,15 +2,13 @@
 
 **About me**
 
-📌 I'm Adobe Certified Expert - AEM Sites Business Practitioner
+📌 AEM Developer Expert Certified
+
+📌 AEM Sites Business Practitioner Expert Certified
 
 📌 AEM Content Author 
 
-📌 AEM developer enthusiastic 
-
 📌 Graduating in Systems Analysis and Development 
-
-📌 Graduated in Food Engineering
 
 <br />
 
