@@ -6,9 +6,11 @@
 
 📌 AEM Sites Business Practitioner Expert Certified
 
-📌 AEM Content Author 
+📌 AEM Senior Backend Developer
 
-📌 Graduating in Systems Analysis and Development 
+📌 Graduated in Systems Analysis and Development 
+
+📌 Graduated in Food Engineering
 
 <br />
 
